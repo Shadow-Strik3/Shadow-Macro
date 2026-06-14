@@ -1,3 +1,5 @@
+-- MADE WITH AI!! I just needed ts because im bored.
+
 # 🛡️ Shadow Macro — TDS Automation Suite
 
 A dedicated **Tower Defense Simulator** automation suite (not a generic macro
