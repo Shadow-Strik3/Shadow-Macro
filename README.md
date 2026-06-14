@@ -1,4 +1,4 @@
--- MADE WITH AI!! I just needed ts because im bored.
+-- MADE WITH AI!! I just needed ts because im bored. Feel free to use it tho! :)
 
 # 🛡️ Shadow Macro — TDS Automation Suite
 
